@@ -53,3 +53,5 @@ Exec Flags: {file}:{line}:{col}
 # License
 MIT
 
+# Bug fix:
+- 3.1.1 compatibility issue
