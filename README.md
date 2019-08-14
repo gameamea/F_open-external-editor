@@ -54,4 +54,4 @@ Exec Flags: {file}:{line}:{col}
 MIT
 
 # Bug fix:
-- 3.1.1 compatibility issue
+- Laurent ONGARO:fix 3.1.1 compatibility issue
